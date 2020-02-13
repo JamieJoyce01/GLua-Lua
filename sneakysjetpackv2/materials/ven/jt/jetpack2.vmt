@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "ven/jt/jetpack"
+	$bumpmap "ven/jt/jetpack_nm"
+	$color2 "[0.75 0.75 0.75]"
+
+	$phong 1
+    //$phongexponent 100 
+    $phongexponenttexture "ven/shared/t_l_assault_preq_01_helmet_gs"
+    $phongfresnelranges "[0.5 1.7 1.11]"
+	$phongboost 2
+}
